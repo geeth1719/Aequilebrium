@@ -1,7 +1,7 @@
 # Aequilebrium
 
 Firstly, unzip the Aequilebrium file.
-Manual test case were written in Assignment_Manual Test cases.xlsx
+Manual test case were written in Assignment_Manual Test cases.xlsx.
 And automation test cases, were in zip folder.
 Login class was the Page object model I've created.
 Test cases class will be automating the some of the manual test cases (like vaild username wrt to valid password or invalid password, checking login button functionality etc..)
