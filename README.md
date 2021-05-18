@@ -3,6 +3,10 @@
 Firstly, unzip the Aequilebrium file.
 Manual test case were written in Assignment_Manual Test cases.xlsx.
 And automation test cases, were in zip folder.
+
+
+//In the folder "target", you'll find other folder "test-classes", in this folder you can see all the classes that were defined//.
+
 Login class was the Page object model I've created.
 Test cases class will be automating the some of the manual test cases (like vaild username wrt to valid password or invalid password, checking login button functionality etc..)
 Swag lab properties file was actually used to pass on the parameters to the methods in Test cases class.
